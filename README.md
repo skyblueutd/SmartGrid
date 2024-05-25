@@ -8,6 +8,9 @@ GEIRINA code: https://github.com/shidi1985/L2RPN (Tensorflow)
 
 The seconde place: https://github.com/amar-iastate/L2RPN-using-A3C (Keras)
 
+Newest Competition:
+
+https://l2rpn.chalearn.org/competitions#h.p_X7vG2_haclL_
 
 And I have read several other interesting papers related to Smart Grid, see this link:
 https://github.com/skyblueutd/Paper
