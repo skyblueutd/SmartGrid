@@ -14,3 +14,6 @@ https://l2rpn.chalearn.org/competitions#h.p_X7vG2_haclL_
 
 And I have read several other interesting papers related to Smart Grid, see this link:
 https://github.com/skyblueutd/Paper
+
+Deepmind Newest:
+https://github.com/google-deepmind/graphcast
